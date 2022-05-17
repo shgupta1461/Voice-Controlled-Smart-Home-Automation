@@ -4,3 +4,5 @@ Voice Controlled Home Automation System using ESP32 Devkit V1 Wi-Fi module, wher
 APP link has been given in FINAL CODE.pdf file.
 
 Youtube link: https://www.youtube.com/watch?v=msvLE0DqsCk
+
+Arduino is only used to supply power to the relay.
